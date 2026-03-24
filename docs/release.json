@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/desktop-commander/dc-app-client-releases-windows/releases/299998835",
-  "assets_url": "https://api.github.com/repos/desktop-commander/dc-app-client-releases-windows/releases/299998835/assets",
-  "upload_url": "https://uploads.github.com/repos/desktop-commander/dc-app-client-releases-windows/releases/299998835/assets{?name,label}",
-  "html_url": "https://github.com/desktop-commander/dc-app-client-releases-windows/releases/tag/v1.5.63",
-  "id": 299998835,
+  "url": "https://api.github.com/repos/desktop-commander/dc-app-client-releases-windows/releases/300701850",
+  "assets_url": "https://api.github.com/repos/desktop-commander/dc-app-client-releases-windows/releases/300701850/assets",
+  "upload_url": "https://uploads.github.com/repos/desktop-commander/dc-app-client-releases-windows/releases/300701850/assets{?name,label}",
+  "html_url": "https://github.com/desktop-commander/dc-app-client-releases-windows/releases/tag/v1.5.69",
+  "id": 300701850,
   "author": {
     "login": "ds-dcmpc",
     "id": 208726513,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOQ7HWec4R4Z5z",
-  "tag_name": "v1.5.63",
+  "node_id": "RE_kwDOQ7HWec4R7Fia",
+  "tag_name": "v1.5.69",
   "target_commitish": "main",
-  "name": "Desktop Commander 1.5.63 (Windows)",
+  "name": "Desktop Commander 1.5.69 (Windows)",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-03-22T23:33:04Z",
-  "updated_at": "2026-03-23T01:17:53Z",
-  "published_at": "2026-03-23T01:17:53Z",
+  "created_at": "2026-03-23T01:18:14Z",
+  "updated_at": "2026-03-24T14:00:01Z",
+  "published_at": "2026-03-24T14:00:01Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/desktop-commander/dc-app-client-releases-windows/releases/assets/379395030",
-      "id": 379395030,
-      "node_id": "RA_kwDOQ7HWec4WnRvW",
+      "url": "https://api.github.com/repos/desktop-commander/dc-app-client-releases-windows/releases/assets/380478786",
+      "id": 380478786,
+      "node_id": "RA_kwDOQ7HWec4WraVC",
       "name": "desktop-commander-win-x64.msi",
       "label": "",
       "uploader": {
@@ -65,15 +65,15 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 270544896,
-      "digest": "sha256:11fc56d45946a8fe5274178bb3fe6384d6542ad02821a576a8961451c90274c2",
+      "size": 270553088,
+      "digest": "sha256:c728649ef884279ae0566219a60f2d3af42d0ba71414ed88b487db1cc7c4de80",
       "download_count": 0,
-      "created_at": "2026-03-23T01:16:26Z",
-      "updated_at": "2026-03-23T01:16:33Z",
-      "browser_download_url": "https://github.com/desktop-commander/dc-app-client-releases-windows/releases/download/v1.5.63/desktop-commander-win-x64.msi"
+      "created_at": "2026-03-24T13:57:04Z",
+      "updated_at": "2026-03-24T13:57:14Z",
+      "browser_download_url": "https://github.com/desktop-commander/dc-app-client-releases-windows/releases/download/v1.5.69/desktop-commander-win-x64.msi"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/desktop-commander/dc-app-client-releases-windows/tarball/v1.5.63",
-  "zipball_url": "https://api.github.com/repos/desktop-commander/dc-app-client-releases-windows/zipball/v1.5.63",
-  "body": "Windows installer for Desktop Commander v1.5.63"
+  "tarball_url": "https://api.github.com/repos/desktop-commander/dc-app-client-releases-windows/tarball/v1.5.69",
+  "zipball_url": "https://api.github.com/repos/desktop-commander/dc-app-client-releases-windows/zipball/v1.5.69",
+  "body": "Windows installer for Desktop Commander v1.5.69"
 }
